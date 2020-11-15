@@ -1,0 +1,8 @@
+name: paycheck
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - qgrid
+  - ipywidgets
