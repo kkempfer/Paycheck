@@ -1,7 +1,7 @@
 name: paycheck
 channels:
-  - conda-forge
   - defaults
+  - conda-forge
 dependencies:
   - pandas
   - qgrid
